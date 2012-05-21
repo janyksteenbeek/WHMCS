@@ -1,7 +1,7 @@
 ![Mollie](http://www.mollie.nl/files/Mollie-Logo-Style-Small.png)
 
 # Installatie #
-+ ``` git clone git://github.com/mollienl/WHMCS.git ~/.opencart```
++ ``` git clone git://github.com/mollienl/WHMCS.git ~/whmcs```
 + Kopieer alle bestanden en mappen in ./modules/gateways/
 + Bekijk op [http://www.youtube.com/watch?v=sJdqCuJXbRE&hd=1](http://www.youtube.com/watch?v=sJdqCuJXbRE&hd=1) de video tutorial hoe u een payment gateway kunt activeren in WHMCS.
 
